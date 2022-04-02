@@ -12,3 +12,4 @@ img.save("TesteQRcode.png") #cria o arquivo com um determinado nome
 #mais informações em: https://pypi.org/project/qrcode/
 
 print('Alô mae, to no git')
+#committttt
