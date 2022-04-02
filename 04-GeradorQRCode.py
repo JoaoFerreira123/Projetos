@@ -10,3 +10,5 @@ img = qr.make_image(fill_color="white", back_color="blue") #altera as cores do c
 img.save("TesteQRcode.png") #cria o arquivo com um determinado nome
 
 #mais informações em: https://pypi.org/project/qrcode/
+
+print('Alô mae, to no git')
